@@ -76,16 +76,15 @@ In other words, the 3,000-ton threshold was used to focus on the **main trade st
 
 To show regional differences in the network visualizations, each country was colored by continent.
 
-| Continent     | Color                                                                                                                 |
-| ------------- | --------------------------------------------------------------------------------------------------------------------- |
-| Asia          | <span style="display:inline-block; width:18px; height:18px; background-color:#FFD6A5; border:1px solid #999;"></span> |
-| Europe        | <span style="display:inline-block; width:18px; height:18px; background-color:#A8DADC; border:1px solid #999;"></span> |
-| Africa        | <span style="display:inline-block; width:18px; height:18px; background-color:#B7E4C7; border:1px solid #999;"></span> |
-| North America | <span style="display:inline-block; width:18px; height:18px; background-color:#CDB4DB; border:1px solid #999;"></span> |
-| South America | <span style="display:inline-block; width:18px; height:18px; background-color:#FFB4A2; border:1px solid #999;"></span> |
-| Oceania       | <span style="display:inline-block; width:18px; height:18px; background-color:#FFF1A8; border:1px solid #999;"></span> |
-| Other         | <span style="display:inline-block; width:18px; height:18px; background-color:#D9D9D9; border:1px solid #999;"></span> |
-
+| Continent | Color |
+|---|---|
+| Asia | ![#FFD6A5](https://placehold.co/18x18/FFD6A5/FFD6A5.png) Pastel Orange `#FFD6A5` |
+| Europe | ![#A8DADC](https://placehold.co/18x18/A8DADC/A8DADC.png) Pastel Blue `#A8DADC` |
+| Africa | ![#B7E4C7](https://placehold.co/18x18/B7E4C7/B7E4C7.png) Pastel Green `#B7E4C7` |
+| North America | ![#CDB4DB](https://placehold.co/18x18/CDB4DB/CDB4DB.png) Pastel Purple `#CDB4DB` |
+| South America | ![#FFB4A2](https://placehold.co/18x18/FFB4A2/FFB4A2.png) Pastel Coral `#FFB4A2` |
+| Oceania | ![#FFF1A8](https://placehold.co/18x18/FFF1A8/FFF1A8.png) Pastel Yellow `#FFF1A8` |
+| Other | ![#D9D9D9](https://placehold.co/18x18/D9D9D9/D9D9D9.png) Light Gray `#D9D9D9` |
 ---
 
 ### 1-5. Heatmap Normalization Method
